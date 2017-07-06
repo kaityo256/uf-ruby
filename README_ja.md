@@ -4,7 +4,9 @@ Japanese/ [English](README.md)
 
 ## 概要
 
-Union-Find木のサンプルコードです。正方格子サイトパーコレーションに適用してみます。
+Union-Find木のサンプルコードです。正方格子サイトパーコレーションに適用してみます。簡単な解説をQiitaに書きました。
+
+[Union-Find木のサンプルコード](http://qiita.com/kaityo256/items/5a3b03ff465778c23f6a)
 
 
 ## 使い方
