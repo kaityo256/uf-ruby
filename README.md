@@ -1,6 +1,6 @@
 [Japanese](README_ja.md)/ English
 
-# Sample code of using Union-Find tree
+# Sample code of the Union-Find tree
 
 ## Summary
 
