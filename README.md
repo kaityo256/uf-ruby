@@ -25,4 +25,4 @@ An application to site-percolation is implemented.
 
 Consider a square lattice of 8x8 size. Put stones with probability 0.5. The nerighboring stones are defined to be *connected*. We want to identify whether two stones belong to the same cluster or not. This is called *Percolation Problem*. Percolation is one of the simplest model which involves a phase transition. We can simulate percolation problem using a union-find tree.
 
-If you run the script, the number of stones are shown. You can see that the nerighboring stones share the same number.
+If you run the script, the labels of stones are shown. You can see that the nerighboring stones have the identical label.
